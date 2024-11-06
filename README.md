@@ -1,6 +1,6 @@
 # [Python Programming MOOC 2024 University of Helsinki](https://programming-24.mooc.fi)
 
-- Atualmente estou na Parte 10
+- Right now at part 11
 -------------------------------------------------------------------
 
 ## Conteúdos do curso ##
