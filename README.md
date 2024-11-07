@@ -3,7 +3,7 @@
 - Right now at part 11
 -------------------------------------------------------------------
 
-## Conteúdos do curso ##
+## Course contents ##
 #### Part 1: #
 1. Getting started
     1. Programming exercise: Emoticon
