@@ -1,6 +1,5 @@
 # [Python Programming MOOC 2024 University of Helsinki](https://programming-24.mooc.fi)
 
-- Right now at part 12
 -------------------------------------------------------------------
 
 ## Course contents ##
@@ -363,36 +362,3 @@
     1. Programming exercise: Regular expressions
     2. Programming exercise: Hockey statistics
     3. Quiz: Feedback, part 12
-          
-#### Part 13:
-1. Pygame
-    1. Programming exercise: Four robots
-    2. Programming exercise: Robots in a row
-    3. Programming exercise: A hundred robots
-    4. Programming exercise: Random robots
-2. Animation
-    1. Programming exercise: Vertical movement
-    2. Programming exercise: Round the perimeter
-    3. Programming exercise: Two robots
-    4. Programming exercise: Robots in a circle
-    5. Programming exercise: Bouncing ball
-    6. Programming exercise: Robot invasion
-3. Events
-    1. Programming exercise: Four directions
-    2. Programming exercise: Four walls
-    3. Programming exercise: Two players
-    4. Programming exercise: Robot and mouse
-    5. Programming exercise: The location of the robot
-4. More pygame techniques
-    1. Programming exercise: Clock
-    2. Programming exercise: Asteroids
-    3. Quiz: Feedback, part 13
-      
-#### Part 14:
-1. Game project
-2. Robot and boxes
-3. Finishing the game
-4. Your own game
-    1. Quiz: Own game
-    2. Quiz: Feedback, part 14
-    3. Quiz: Final quiz, Advanced Course
